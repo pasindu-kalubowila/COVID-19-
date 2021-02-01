@@ -1,4 +1,4 @@
-COVID-19-App User Interface developed By myself.
+COVID-19-App User Interface developed By myself..
 <img src="https://user-images.githubusercontent.com/49118169/106433906-d36dea00-6496-11eb-8b3c-10974869861f.png" width="200" hight="100">
 <img src="https://user-images.githubusercontent.com/49118169/106434719-ed5bfc80-6497-11eb-90bb-85a09663e64f.png" width="200" hight="100">
 <img src="https://user-images.githubusercontent.com/49118169/106434744-f4830a80-6497-11eb-945b-b250551b8204.png" width="200" hight="100">
